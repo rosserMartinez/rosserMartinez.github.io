@@ -1,11 +1,12 @@
 # Rosser Ricardo Martinez - Game Portfolio
 
-#### GRAVE DANGER
+### GRAVE DANGER|
+
 No Screenshots, because Trailer is coming soon! YEOW!
 
-Advanced Seminar Project | Fall Semester 2017
+Advanced Seminar Project, Fall Semester 2017
 
-2D PvP Gravedigging Experience, Unity 2017
+2D PvP Gravedigging Experience made in Unity 2017
 
 Team Size: Solo
 
@@ -14,13 +15,13 @@ Use your trusty shovel to knock undead and your opponent into graves and bury th
 [Link To Game](https://github.com/rosserMartinez/Grave-Danger)
 
 
-#### THE BOX GHOST
+### THE BOX GHOST|
 
 [Box Ghost In Game Screenshot](https://i.imgur.com/pZa0GEx.jpg)
 
-Entry for GDL Quantum Jam | October 2017
+Entry for GDL Quantum Jam October 2017
 
-Isometric Puzzle Game, Unity 2017
+Isometric Puzzle Game made in Unity 2017
 
 Team Size: 2
 
@@ -28,13 +29,13 @@ Solve puzzles in a laboratory using a spirit box that extends from your original
 
 [Link To Game](https://github.com/rosserMartinez/The-Box-Ghost)
 
-#### HOTLINE MAGNETO
+### HOTLINE MAGNETO|
 
 ![Hotline Magneto Menu Screenshot](https://img.itch.zone/aW1hZ2UvMTU5MTUzLzczMDA5NC5wbmc=/original/zKAPAA.png)
 
-Submission for GameMaker's Toolkit Jam | July 2017
+Submission for GameMaker's Toolkit Jam, July 2017
 
-2D Action Game, Unity 5.6
+2D Action Game made in Unity 5.6
 
 Team Size: 2
 
