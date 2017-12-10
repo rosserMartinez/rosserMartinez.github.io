@@ -1,5 +1,4 @@
-# Rosser Ricardo Martinez - Game Programming Portfolio
-
+# Game Programming Portfolio
 
 
 
