@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Rosser Ricardo Martinez - Game Portfolio
 
-You can use the [editor on GitHub](https://github.com/rosserMartinez/rosserMartinez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### GRAVE DANGER
+No Screenshots, because Trailer is coming soon! YEOW!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Advanced Seminar Project | Fall Semester 2017
 
-### Markdown
+2D PvP Gravedigging Experience, Unity 2017
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Team Size: Solo
 
-```markdown
-Syntax highlighted code block
+Use your trusty shovel to knock undead and your opponent into graves and bury them for points. You'll DIG it! 
 
-# Header 1
-## Header 2
-### Header 3
+[Link To Game](https://github.com/rosserMartinez/Grave-Danger)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### THE BOX GHOST
 
-**Bold** and _Italic_ and `Code` text
+[Box Ghost In Game Screenshot](https://i.imgur.com/pZa0GEx.jpg)
 
-[Link](url) and ![Image](src)
-```
+Entry for GDL Quantum Jam | October 2017
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Isometric Puzzle Game, Unity 2017
 
-### Jekyll Themes
+Team Size: 2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosserMartinez/rosserMartinez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Solve puzzles in a laboratory using a spirit box that extends from your original box body. Spooky!
 
-### Support or Contact
+[Link To Game](https://github.com/rosserMartinez/The-Box-Ghost)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### HOTLINE MAGNETO
+
+![Hotline Magneto Menu Screenshot](https://img.itch.zone/aW1hZ2UvMTU5MTUzLzczMDA5NC5wbmc=/original/zKAPAA.png)
+
+Submission for GameMaker's Toolkit Jam | July 2017
+
+2D Action Game, Unity 5.6
+
+Team Size: 2
+
+Use telekinesis to frag enemies with their own weapons and ammo. Sweet!
+
+[Link To Game](https://tmcgillicuddy.itch.io/hotline-magneto)
