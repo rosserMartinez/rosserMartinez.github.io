@@ -1,6 +1,6 @@
 # Rosser Ricardo Martinez - Game Portfolio
 
-### GRAVE DANGER|
+## GRAVE DANGER
 
 No Screenshots, because Trailer is coming soon! YEOW!
 
@@ -15,7 +15,7 @@ Use your trusty shovel to knock undead and your opponent into graves and bury th
 [Link To Game](https://github.com/rosserMartinez/Grave-Danger)
 
 
-### THE BOX GHOST|
+## THE BOX GHOST
 
 [Box Ghost In Game Screenshot](https://i.imgur.com/pZa0GEx.jpg)
 
@@ -29,7 +29,7 @@ Solve puzzles in a laboratory using a spirit box that extends from your original
 
 [Link To Game](https://github.com/rosserMartinez/The-Box-Ghost)
 
-### HOTLINE MAGNETO|
+## HOTLINE MAGNETO
 
 ![Hotline Magneto Menu Screenshot](https://img.itch.zone/aW1hZ2UvMTU5MTUzLzczMDA5NC5wbmc=/original/zKAPAA.png)
 
