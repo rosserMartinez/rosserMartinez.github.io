@@ -4,7 +4,7 @@
 
 ## GRAVE DANGER
 
-[TRAILER FOR GRAVE DANGER](https://youtu.be/Zew4V7JlSCs)
+![TRAILER FOR GRAVE DANGER](https://youtu.be/Zew4V7JlSCs)
   
   
 Advanced Seminar Project, Fall Semester 2017
@@ -20,7 +20,7 @@ Use your trusty shovel to knock undead and your opponent into graves and bury th
 
 ## THE BOX GHOST
 
-[Box Ghost In Game Screenshot](https://i.imgur.com/pZa0GEx.jpg)
+![Box Ghost In Game Screenshot](https://i.imgur.com/pZa0GEx.jpg)
 
 Entry for GDL Quantum Jam October 2017
 
