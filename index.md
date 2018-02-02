@@ -1,6 +1,21 @@
 # Game Programming Portfolio
 
 
+## BRAILLE TYPE TO LEARN WITH PARRIES
+
+![BTTLWP In Game Screenshot 1](https://imgur.com/a/BQ9qk)
+
+Submission for Global Game Jam, January 2018
+
+Braille-Based Insult Fighting Game made in Unreal Engine 4
+
+Team Size: 3
+
+Use a sideways arcade stick to type braille characters to trash talk your opponent, letter by letter. Complete your insults faster than your opponents, but watch out, both players can predict and parry eachothers inputs! 
+
+![BTTLWP In Game Screenshot 2](https://imgur.com/a/IDz7x)
+
+[Link To Game](https://globalgamejam.org/2018/games/versus-braille-type-learn-parries?token=1517558995)
 
 ## GRAVE DANGER
 
