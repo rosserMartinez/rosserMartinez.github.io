@@ -3,7 +3,7 @@
 
 ## BRAILLE TYPE TO LEARN WITH PARRIES
 
-![BTTLWP In Game Screenshot 1](https://i.imgur.com/a/BQ9qk)
+![BTTLWP In Game Screenshot 1](https://i.imgur.com/G8sxzTb.jpg)
 
 Submission for Global Game Jam, January 2018
 
@@ -13,7 +13,7 @@ Team Size: 3
 
 Use a sideways arcade stick to type braille characters to trash talk your opponent, letter by letter. Complete your insults faster than your opponents, but watch out, both players can predict and parry eachothers inputs! 
 
-![BTTLWP In Game Screenshot 2](https://i.imgur.com/a/IDz7x)
+![BTTLWP In Game Screenshot 2](https://i.imgur.com/NVjAUjC.png)
 
 [Link To Game](https://globalgamejam.org/2018/games/versus-braille-type-learn-parries?token=1517558995)
 
