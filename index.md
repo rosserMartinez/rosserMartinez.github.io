@@ -1,6 +1,20 @@
 # Game Programming Portfolio
 
 
+## LITHO-TRUCKERS: CONTINENTAL DRIFT
+
+![LITHO-TRUCKERS IN GAME SCREENSHOT I](https://i.imgur.com/DUzyDv3.jpg)
+
+Production II, January - February 2018
+
+Earthbending-Based Truck Racing Game made in Unreal Engine 4
+
+Team Size: 5
+
+Drive massive trucks through a canyon and alter the structure of the course by bending the earth to create ramps, walls and speed boosts. Combine structures together to creatively navigate the canyon and outspeed your fellow Litho-Truckers!
+
+![LITHO-TRUCKERS IN GAME SCREENSHOT II](https://i.imgur.com/DrdW6B1.jpg)
+
 ## BRAILLE TYPE TO LEARN WITH PARRIES
 
 ![BTTLWP In Game Screenshot 1](https://i.imgur.com/G8sxzTb.jpg)
