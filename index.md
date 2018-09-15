@@ -50,7 +50,7 @@ Use a sideways arcade stick to type braille characters to trash talk your oppone
 
 ## GRAVE DANGER
 
-[TRAILER FOR GRAVE DANGER](https://youtu.be/Zew4V7JlSCs)
+[![TRAILER FOR GRAVE DANGER](http://img.youtube.com/vi/Zew4V7JlSCs/0.jpg)](http://www.youtube.com/watch?v=Zew4V7JlSCs "GRAVE DANGER TRAILER")
   
   
 Advanced Seminar Project, Fall Semester 2017
