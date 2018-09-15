@@ -10,7 +10,7 @@ TRAILER:
 
 [![JORMUNGANDR](http://img.youtube.com/vi/mdQMo7JBToA/0.jpg)](http://www.youtube.com/watch?v=mdQMo7JBToA "JORMUNGANDR")
 
-Production II, February - MAy 2018
+Production II, February - May 2018
 
 Underwater VR Horror Game made in Unreal Engine 4
 
