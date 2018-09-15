@@ -1,6 +1,18 @@
 # Game Programming Portfolio
 
 
+## JORMUNGANDR
+
+[![JORMUNGANDR](http://img.youtube.com/vi/mdQMo7JBToA/0.jpg)](http://www.youtube.com/watch?v=mdQMo7JBToA "JORMUNGANDR")
+
+Production II, February - MAy 2018
+
+Underwater VR Horror Game made in Unreal Engine 4
+
+Team Size: 11
+
+Plunge into the depths and evade the world serpent in this immersive VR experience. Recover the black boxes and escape with your life!
+
 ## LITHO-TRUCKERS: CONTINENTAL DRIFT
 
 ![LITHO-TRUCKERS IN GAME SCREENSHOT I](https://i.imgur.com/DUzyDv3.jpg)
