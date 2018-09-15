@@ -3,6 +3,9 @@
 
 ## JORMUNGANDR
 
+![JORMUNGANDR](https://i.imgur.com/fDYQ5IO.jpg)
+
+TRAILER:
 [![JORMUNGANDR](http://img.youtube.com/vi/mdQMo7JBToA/0.jpg)](http://www.youtube.com/watch?v=mdQMo7JBToA "JORMUNGANDR")
 
 Production II, February - MAy 2018
