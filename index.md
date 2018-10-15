@@ -14,6 +14,8 @@ Production II, February - May 2018
 
 Underwater VR Horror Game made in Unreal Engine 4
 
+Competitor in RPI's Gamefest 2018
+
 Team Size: 11
 
 Plunge into the depths and evade the world serpent in this immersive VR experience. Recover the black boxes and escape with your life!
